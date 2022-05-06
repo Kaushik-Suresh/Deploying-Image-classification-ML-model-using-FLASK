@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "flask_model"
+version = "0.1.0"
+description = ""
+authors = ["Fernanda Takahashi <fctakahashi@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = ">=3.8,<3.11"
+numpy = "^1.22.3"
+Flask = "^2.1.1"
+keras = "^2.8.0"
+Keras-Preprocessing = "^1.1.2"
+tensorflow = "^2.8.0"
+Pillow = "^9.1.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
