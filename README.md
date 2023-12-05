@@ -3,7 +3,7 @@ To serve a image classification model using flask with docker conatiner in AWS B
 
 # Architecture 
 
-![Proposed system design of the cloud infrastructure![Uploading image.png…](https://github.com/Kaushik-Suresh/Deploying-Image-classification-ML-model-using-FLASK/blob/main/Architecture.png)
+![Proposed system design of the cloud infrastructure](https://github.com/Kaushik-Suresh/Deploying-Image-classification-ML-model-using-FLASK/blob/main/Architecture.png)
 
 
 # 1.	Problem background
