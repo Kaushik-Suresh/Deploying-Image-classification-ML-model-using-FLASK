@@ -18,6 +18,8 @@ The goal of the project is to: Design a functional cloud prototype capable of ru
 
 # 4. Why AWS? 
 - In parallel, I evaluated three cloud solution providers: Amazon Web Services (AWS), Google Cloud Platform (GCP), and Microsoft Azure. This evaluation was on four criteria: service offering, cost, industry coverage(share), and the learning curve. On these criteria, AWS was selected as it proved to be the most cost-effective and offered more options than its competing platforms. Next, I selected the most scalable, user-friendly service from among the options on AWS fit for our purpose, which in our case is the AWS Beanstalk.
+Comparison of cloud services.png
+![Comparison of cloud services](https://github.com/Kaushik-Suresh/Deploying-Image-classification-ML-model-using-FLASK/blob/main/static/Comparison%20of%20cloud%20services.png)
 
 - 
 
